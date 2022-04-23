@@ -48,3 +48,11 @@ https://www.linkedin.com/jobs/view/3021423817
 - Private GitHub repo
 - Deadline: 01/05/2022
 - andre@knowcast.io
+
+---
+
+## Links
+
+- https://www.linkedin.com/jobs/view/3021423817
+- https://github.com/knowcast/challenge
+- https://knowcast.io
