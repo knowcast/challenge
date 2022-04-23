@@ -51,6 +51,12 @@ https://www.linkedin.com/jobs/view/3021423817
 
 ---
 
+## Prize
+
+- AirPods Pro
+
+---
+
 ## Links
 
 - https://www.linkedin.com/jobs/view/3021423817
